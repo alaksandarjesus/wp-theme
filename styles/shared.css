@@ -1,0 +1,51 @@
+body{
+    font-family: 'Nunito', sans-serif;
+    font-weight: 400;
+}
+
+.font-extra-light{
+    font-weight: 200;
+}
+.font-light{
+    font-weight: 300;
+}
+.font-regular{
+    font-weight:400;
+}
+
+.font-semibold{
+    font-weight:600;
+}
+.font-bold{
+    font-weight:700;
+}
+.font-extra-bold{
+    font-weight:800;
+}
+.font-black{
+    font-weight:800;
+}
+
+.yellow{
+    color:#ffff00;
+}
+
+.blue{
+    color:#000080;
+}
+
+.red{
+    color:#ff0000;
+}
+
+.bg-yellow{
+    background-color:#ffff00;
+}
+
+.bg-blue{
+    background-color:#000080;
+}
+
+.bg-red{
+    background-color:#ff0000;
+}

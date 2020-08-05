@@ -1,0 +1,28 @@
+header .app-navbar{
+    background:#000080;
+}
+header .app-navbar .dropdown-menu{
+    background:#000080;
+    top: 114%;
+    left: 68px;
+}
+header .app-navbar a{
+    color:#ffff00;
+}
+.top-nav{
+    padding: 15px;
+}
+.navbar-flag{
+    width:120px;
+}
+.navbar-title{
+    
+}
+.social-media-icons li{
+    display: inline-block;
+    margin-right: 30px;
+}
+
+.social-media-icons li svg{
+    color: #ff0000;
+}
